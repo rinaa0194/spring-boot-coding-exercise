@@ -1,10 +1,10 @@
-package com.telstra.codechallenge;
+package com.telstra.codechallenge.exercise.controller;
 
-import com.telstra.codechallenge.exercises.domain.dto.UserDto;
-import com.telstra.codechallenge.exercises.domain.exception.InternalSeverException;
-import com.telstra.codechallenge.exercises.domain.exception.MethodArgumentNotValidException;
-import com.telstra.codechallenge.exercises.domain.exception.UserNotFoundException;
-import com.telstra.codechallenge.exercises.service.UserService;
+import com.telstra.codechallenge.exercise.domain.dto.UserDto;
+import com.telstra.codechallenge.exercise.domain.exception.InternalSeverException;
+import com.telstra.codechallenge.exercise.domain.exception.MethodArgumentNotValidException;
+import com.telstra.codechallenge.exercise.domain.exception.UserNotFoundException;
+import com.telstra.codechallenge.exercise.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;

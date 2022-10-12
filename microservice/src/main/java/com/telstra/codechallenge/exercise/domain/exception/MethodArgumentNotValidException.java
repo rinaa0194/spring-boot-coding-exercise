@@ -1,4 +1,4 @@
-package com.telstra.codechallenge.exercises.domain.exception;
+package com.telstra.codechallenge.exercise.domain.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

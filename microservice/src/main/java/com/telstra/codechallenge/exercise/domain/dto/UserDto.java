@@ -1,4 +1,4 @@
-package com.telstra.codechallenge.exercises.domain.dto;
+package com.telstra.codechallenge.exercise.domain.dto;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

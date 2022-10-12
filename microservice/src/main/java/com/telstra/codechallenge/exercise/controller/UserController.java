@@ -1,8 +1,8 @@
-package com.telstra.codechallenge.exercises.controller;
+package com.telstra.codechallenge.exercise.controller;
 
 
-import com.telstra.codechallenge.exercises.domain.dto.UserDto.Items;
-import com.telstra.codechallenge.exercises.service.UserService;
+import com.telstra.codechallenge.exercise.domain.dto.UserDto.Items;
+import com.telstra.codechallenge.exercise.service.UserService;
 import lombok.extern.java.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
